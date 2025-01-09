@@ -51,7 +51,7 @@ export const myProjects = [
         subdesc:
             'Wish fosters a community-driven platform for sharing aspirations, built with simplicity and efficiency in mind.',
         href: 'https://wish-wine.vercel.app/',
-        logo: '/assets/wish-logo.svg',
+        logo: '/assets/wish.png',
         img: '/textures/wish.png',
         texture:'textures/wishTxt.mp4',
         logoStyle: {
